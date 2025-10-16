@@ -1,0 +1,9 @@
+com\batallas\SimulacionBatalla.class
+com\batallas\interfaces\Volador.class
+com\batallas\Criatura.class
+com\batallas\Arma.class
+com\batallas\interfaces\Magico.class
+com\batallas\Mago.class
+com\batallas\Guerrero.class
+com\batallas\Dragon.class
+com\batallas\Main.class
