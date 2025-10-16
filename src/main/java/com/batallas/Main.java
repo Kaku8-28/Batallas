@@ -7,7 +7,7 @@ public class Main {
         Arma baston = new Arma("Bastón de Poder", 8);
 
         
-        Dragon dragon = new Dragon("Thor", 150, 25);
+        Dragon dragon = new Dragon("Drogo", 150, 25);
         Mago mago = new Mago("Gandalf", 100, 20);
         Guerrero guerrero = new Guerrero("Kratos", 120, 22);
 
